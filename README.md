@@ -1,4 +1,5 @@
 #Using Py 3.12.0 (download if necessary)
+...download zip file, extract, then open windows powershell terminal in extracted folder
 
 > py -3.12 -m venv .venv
 
