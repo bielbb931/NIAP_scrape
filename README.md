@@ -12,3 +12,5 @@
 > python -m playwright install
 
 > python .\scripts\run_niap.py
+
+Output: should extract 276 rows (check NIAP website for up to date number)
